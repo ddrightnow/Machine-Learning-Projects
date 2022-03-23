@@ -1,15 +1,25 @@
-# 2021
+# 2000 AD and counting
 
 #Collection of Interesting Machine Learning Projects I have done
 
-#They have been assembled by best solution type:
+#They have been categorized first supervision type:
 ##Supervised Models
 ##Unsupervised Models
 
-##Regression Models
-##C
+Then further segemented into the model types
+##Linear Regression Models
+##Logistic
+##SVC
+##SWM
+##KMeans
+##KNN
 
-##Package Requirements to run most scripts:
+To work on:
+##Optical Recognition
+##RNN
+##CNN
+
+##Package Requirements tfor environment I use (update):
 jupyter==1.0.0
 lxml==4.5.1
 MarkupSafe==1.1.1
