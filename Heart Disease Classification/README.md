@@ -1,4 +1,3 @@
-#README
 
 ## This project is to create a logistic model that can predict the prevalance of heart disease by observing physical attributes of a patient.
 
