@@ -1,7 +1,7 @@
 
 ## This project is to create a logistic model that can predict the prevalance of heart disease by observing physical attributes of a patient.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Humhrt2.jpg">
+<img src="https://www.mukathospital.com/wp-content/uploads/2021/03/rawImage.jpg">
 
 ## Data
 
