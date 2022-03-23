@@ -14,11 +14,11 @@ If you are planning on going out to see a movie, how well can you trust online r
 **Article: [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/)**
 
 
-
-
-
-
-
+#
+#
+#
+#
+#
 
 
 
